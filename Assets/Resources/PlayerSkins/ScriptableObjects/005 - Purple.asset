@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf3c36b3316f5cf48ad7c729e7b00ac0, type: 3}
+  m_Name: 005 - Purple
+  m_EditorClassIdentifier: 
+  ID: 5
+  itemName: Purple Cube
+  cost: 150
+  prefabs:
+  - {fileID: 3711759136093195009, guid: 0859156310a1dd147b29232fcffb8e55, type: 3}
+  image: {fileID: 21300000, guid: bf9479d59f6c0a743af56ccb54f9a147, type: 3}

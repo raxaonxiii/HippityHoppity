@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf3c36b3316f5cf48ad7c729e7b00ac0, type: 3}
+  m_Name: 010 - Bunny
+  m_EditorClassIdentifier: 
+  ID: 10
+  itemName: Bunny
+  cost: 200
+  prefabs:
+  - {fileID: 9113700064698274197, guid: d68346039bb28e643a304b5047a442d5, type: 3}
+  image: {fileID: 21300000, guid: 19cdb25170c6f994a84029ee7c7ed16b, type: 3}

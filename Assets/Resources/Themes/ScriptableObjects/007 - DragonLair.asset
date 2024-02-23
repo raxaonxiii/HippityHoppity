@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf3c36b3316f5cf48ad7c729e7b00ac0, type: 3}
+  m_Name: 007 - DragonLair
+  m_EditorClassIdentifier: 
+  ID: 7
+  itemName: Dragon's Lair
+  cost: 200
+  prefabs:
+  - {fileID: 2220293900788711173, guid: ef106de36ba94f441810e4b126a972a3, type: 3}
+  - {fileID: 6816218411881004874, guid: 6303baa0e0f238e45851ca3d3d122f54, type: 3}
+  image: {fileID: 21300000, guid: 48068f13b1465d7439c54109005d77b9, type: 3}

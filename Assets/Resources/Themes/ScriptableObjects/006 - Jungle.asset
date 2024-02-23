@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf3c36b3316f5cf48ad7c729e7b00ac0, type: 3}
+  m_Name: 006 - Jungle
+  m_EditorClassIdentifier: 
+  ID: 6
+  itemName: Jungle
+  cost: 200
+  prefabs:
+  - {fileID: 6697358605885387849, guid: 4eea16bc056b49e44be5a291b562e242, type: 3}
+  - {fileID: 3425284619701608129, guid: bad4d1171f3c2194eb22489453466198, type: 3}
+  image: {fileID: 21300000, guid: 8c4eac92294cadb4d8ded1918e84d844, type: 3}

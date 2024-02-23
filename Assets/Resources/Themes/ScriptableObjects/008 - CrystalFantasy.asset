@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf3c36b3316f5cf48ad7c729e7b00ac0, type: 3}
+  m_Name: 008 - CrystalFantasy
+  m_EditorClassIdentifier: 
+  ID: 8
+  itemName: Crystal Fantasy
+  cost: 200
+  prefabs:
+  - {fileID: 4318194138090035782, guid: 1b07ec2b46fcdc54fa442b3a6893d0e5, type: 3}
+  - {fileID: 579885364414333196, guid: a0f10b9eefe824f43b1e5b8c20f1b61f, type: 3}
+  image: {fileID: 21300000, guid: 26b005a2cc666834cbc16cf1ebac81a0, type: 3}

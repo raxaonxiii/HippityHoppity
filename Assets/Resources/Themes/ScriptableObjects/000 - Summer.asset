@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf3c36b3316f5cf48ad7c729e7b00ac0, type: 3}
+  m_Name: 000 - Summer
+  m_EditorClassIdentifier: 
+  ID: 0
+  itemName: Summer
+  cost: 0
+  prefabs:
+  - {fileID: 3282357973005049632, guid: 4128411e33231b244927079686017fbb, type: 3}
+  - {fileID: 1508789378840925317, guid: cdc2b1bd2b63e6449a5bb97674bf5dca, type: 3}
+  image: {fileID: 21300000, guid: 5e7a8cb69b285264fbf2ee6262b1443a, type: 3}
